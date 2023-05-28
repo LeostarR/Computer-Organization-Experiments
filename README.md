@@ -1,1 +1,1 @@
-# Computer-Organization-Expriments
+# Computer-Organization-Experiments
