@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Computer-Organization-Experiments
 
 计组试验一共包含了9次project（从P0到P8），本人完成了从P0到P7课下作业和课上实践的所有内容。
